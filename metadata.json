@@ -1,0 +1,6 @@
+{
+  "name": "Atlantic City CRM",
+  "description": "Elite CRM and VIP Membership Management system for Atlantic City, including real-time dashboards, client directories, promotional engines, helpdesk ticket flows, and advanced operations analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
